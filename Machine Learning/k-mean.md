@@ -104,7 +104,7 @@ for step in range(100):  # Number of Epoch
 ```
 
 ![Data spot graph](http://i.imgur.com/Qg3UTMx.jpg)
-![Group Changing while epoch increase](http://i.imgur.com/YUM5GWL.gif)
+![Group Changing while epoch increase](http://i.imgur.com/SpcTRdu.gif)
 
 *epoche==20 정도부터 큰 변화가 없다*
 
